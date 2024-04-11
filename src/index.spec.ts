@@ -1,6 +1,6 @@
 import { format } from "prettier";
 import { expect, it } from "vitest";
-import { plugin } from ".";
+import { plugin } from "./index.ts";
 
 function formatVcl(source: string) {
   return format(source, {

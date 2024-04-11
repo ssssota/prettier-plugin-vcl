@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  '@vcltk/ast':
+    specifier: npm:@jsr/vcltk__ast@^0.2.0
+    version: /@jsr/vcltk__ast@0.2.0
   '@vcltk/parser':
     specifier: npm:@jsr/vcltk__parser@^0.2.0
     version: /@jsr/vcltk__parser@0.2.0
