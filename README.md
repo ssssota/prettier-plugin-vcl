@@ -1,3 +1,3 @@
 # prettier-plugin-vcl
 
-WIP
+This package moved to [vcltk](https://github.com/ssssota/vcltk] repository.
